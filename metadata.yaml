@@ -1,5 +1,8 @@
 _repo: Trotwood-s-Monthly-Vol-I-No-2-November-1905_67946
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67946-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67946#Trotwood-s-Monthly-Vol-I-No-2-November-1905
 gutenberg_issued: '2022-04-28'
 identifiers:
   gutenberg: '67946'
